@@ -1,2 +1,8 @@
 # SACE
-The code for "Self-supervised anatomical continuity enhancement network for 7T SWI synthesis from 3T SWI"
+The code for "Self-supervised anatomical continuity enhancement network for 7T SWI synthesis from 3T SWI" submitted to MedIA.
+
+Package requirement: Coming soon ...
+
+Data preparation: Coming soon ...
+
+Training procedure: Coming soon ...
